@@ -11,3 +11,4 @@
 
 ### Generic Printer
 * [2 stack 3MF with 0.2mm gap](Generic_2_stack_headbands_PETG_0.2mm_gap.3mf)
+* [2 stack 3MF with 0.3mm gap](Generic_2_stack_headbands_PETG_0.3mm_gap.3mf)
