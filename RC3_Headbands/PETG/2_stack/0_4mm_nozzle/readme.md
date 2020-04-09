@@ -3,7 +3,6 @@
 ## STL Files
 * [0.25mm Gap between headbands](Make4Covid_2_stack_headbands_0.25mm_gap.stl)
 * [0.3mm Gap between headbands](Make4Covid_2_stack_headbands_0.3mm_gap.stl)
-* [0.4mm Gap between headbands](Make4Covid_2_stack_headbands_0.4mm_gap.stl)
 
 ## 3MF Files
 ### Prusa MK3 Printer
